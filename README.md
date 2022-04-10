@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AniaAnnaa
-- 👀 I’m interested in maths and I'm keen on every kind of sports.
-- 🌱 I’m currently learning everything, because I try to find hobbies.
+- 👋 Hi, I’m Anna
+- 👀 I’m interested in maths, especially in geometry's problems. Now, I am going to take part in every kind of social projects to help people. 
+- 🌱 I’m currently learning everything, because I try to find new interesting hooby.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
